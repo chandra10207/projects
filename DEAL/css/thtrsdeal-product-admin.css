@@ -1,0 +1,27 @@
+div#thtrs_deal_basic_fields .inside p label {
+    width: 150px;
+    display: inline-block;
+    font-weight: 600;
+}
+input[name="thtrsdeal_adult"] {
+    margin-bottom: 7px;
+}
+.number-ppl {
+    border: 2px solid #f9f9f9;
+    border-right: none;
+    border-left: none;
+    padding: 5px 0px;
+}
+div#thtrs_deal_basic_fields .inside p i {
+    padding-left: 14px;
+    color: #666;
+}
+.number-ppl strong {
+    margin-bottom: 5px;
+    display: inline-block;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.number-ppl label {
+    padding-left: 10px;
+}
